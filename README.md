@@ -1,9 +1,6 @@
 # Client-Server-Communication-Project
 This repository contains a simple TCP/IP client-server application in Python. The server listens for connections, processes data with a 10-second delay, and returns modified responses. The client connects, sends messages, and displays processed responses with timestamps. The server uses threading to handle multiple clients simultaneously.
 
-# Echo Server
-
-This repository contains a simple TCP/IP client-server application in Python. The server listens for connections, processes data with a 10-second delay, and returns modified responses. The client connects, sends messages, and displays processed responses with timestamps. The server uses threading to handle multiple clients simultaneously.
 
 ## Features
 
@@ -26,8 +23,9 @@ This repository contains a simple TCP/IP client-server application in Python. Th
 ### Setting up the Server
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Suman-Khara/Echo_Server.git
-   cd Echo_Server
+   git clone https://github.com/singhsoumya0109/Client-Server-Communication-Project.git
+   cd Client-Server-Communication-Project
+
 
 
 
