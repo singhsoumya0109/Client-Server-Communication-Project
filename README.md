@@ -25,6 +25,8 @@ This repository contains a simple TCP/IP client-server application in Python. Th
    ```bash
    git clone https://github.com/singhsoumya0109/Client-Server-Communication-Project.git
    cd Client-Server-Communication-Project
+2.Run the server:
+   
 
 
 
